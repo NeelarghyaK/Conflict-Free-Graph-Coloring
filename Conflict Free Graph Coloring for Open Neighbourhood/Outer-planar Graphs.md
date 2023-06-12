@@ -9,4 +9,3 @@
 10. If color of two vertices are fixed and there is a acyclic chain(n>1) then it can be 3 colorable.
 11. Whenever there is a 3 membered ring color all of them different. [Except in windmill graph]
 12. Spiral Graph: Graphs that have multiple rings and shares a single vertex and 2 adjacent rings shares an edge.
-13. 
