@@ -1,3 +1,4 @@
+Outerplanar graphs must not have K2,3 and K4 as minor ....
 1. Forest: Xcfon=2
 2. Rings(cyclic chain) : Xcfon=2 for even length, Xcfon=3 for odd length
 3. When an acyclic chain is added with rings having odd lengths will reduce the Xcfon from 3 to 2 
